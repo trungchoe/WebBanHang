@@ -28,4 +28,4 @@
 4. Website sẽ chạy trên port 3000 trên trình duyệt
 ---
 **Video demo**
-* Video:  [Click](https://www.youtube.com/watch?v=3CNkDLOY6ew)
+* Video:  https://www.youtube.com/watch?v=EcE8e3w_WIE
